@@ -1,0 +1,2 @@
+# generics
+generics view
